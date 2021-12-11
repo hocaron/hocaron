@@ -25,7 +25,6 @@
     <a href="https://velog.io/@haron"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white" height="25px;"/></a>
   <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-444444?style=flat&logo=Notion&logoColor=white" height="25px;"/></a> -->
   </div>
-
 </div>
 
 
