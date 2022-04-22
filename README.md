@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Haron&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hocaron&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
 
 <div align="center">
 	<h4>안녕하세요!</h4>
